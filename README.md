@@ -13,15 +13,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
-![ElasticCache](https://img.shields.io/badge/ElasticCache-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![ACM](https://img.shields.io/badge/ACM-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![ELB](https://img.shields.io/badge/ELB-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-1488C6.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ACM](https://img.shields.io/badge/AWS%20ACM-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ELB](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 ### DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
