@@ -4,19 +4,35 @@
 
 
 ![woody6624's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody6624&show_icons=true&theme=radical)
+
 # 💪Skills
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
 ### Cloud
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?&style=for-the-badge&logo=Google%20Cloud&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![ElasticCache](https://img.shields.io/badge/ElasticCache-232F3E.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ACM](https://img.shields.io/badge/ACM-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ELB](https://img.shields.io/badge/ELB-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
-
-### Devops
+### DevOps
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=for-the-badge&logo=GitHub%20Actions&logoColor=white)
 
 ### Tools
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
+![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring JWT](https://img.shields.io/badge/Spring%20JWT-6DB33F.svg?&style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white)
