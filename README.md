@@ -18,7 +18,7 @@
 ![RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![ElastiCache](https://img.shields.io/badge/#C925D1.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![ELB](https://img.shields.io/badge/#8C4FFF.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ELB](https://img.shields.io/badge/awselasticloadbalancing-#8C4FFF.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 ### DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
