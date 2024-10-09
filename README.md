@@ -17,10 +17,8 @@
 ![S3](https://img.shields.io/badge/S3-569A31.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF.svg?&style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
-![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-1488C6.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS%20IAM-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![ACM](https://img.shields.io/badge/AWS%20ACM-FF4F8B.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![ELB](https://img.shields.io/badge/AWS%20Elastic%20Load%20Balancer-FF9900.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/#C925D1.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+![ELB](https://img.shields.io/badge/#8C4FFF.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 ### DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white)
