@@ -32,3 +32,12 @@
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
 ![Spring JPA](https://img.shields.io/badge/Spring%20JPA-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring JWT](https://img.shields.io/badge/Spring%20JWT-6DB33F.svg?&style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white)
+
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/woody6624"
+  width="600"
+  height="300"
+/>
+</a>
