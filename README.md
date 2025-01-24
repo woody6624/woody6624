@@ -5,8 +5,26 @@
 ![woody6624's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody6624&show_icons=true&theme=radical)
 
 # 💪Skills
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /></div>
-
+<table style="border-collapse: collapse;">
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
+    <td><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" /></td>
+    <td></td>
+  </tr>
+</table>
 
 
 ### Languages
