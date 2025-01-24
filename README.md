@@ -48,7 +48,9 @@
 - 교내 캡스톤 경진대회(24.05.31) 장려상
 - Sparcs Science 해커톤(24.10.20) 우수상
 
-
+<br>
+<br>
+---
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/woody6624"
