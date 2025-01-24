@@ -52,11 +52,11 @@
 
 | **프로젝트 이름**                                                                                  | **역할**          | **주요 기술 스택**              | **기간**       | **설명**                                                                                   |
 |----------------------------------------------------------------------------------------------------|-------------------|----------------------------------|----------------|-------------------------------------------------------------------------------------------|
-| [벚꽃톤 프로젝트](https://github.com/username/cherry-blossom-project)                             | 백엔드/클라우드 설계 | AWS EC2, S3, Lambda              | 2023.04 ~ 2023.05 |         |
-| [Dreamcatcher](https://github.com/username/dreamcatcher)                                           | 백엔드 개발자     | AWS, Node.js, MongoDB, Nginx     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트로, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여.              |
-| [Sublindway](https://github.com/username/subway-assistant)                                  | 백엔드 개발자     | AWS, Spring Boot, MySQL, Yolo       | 2024.03 ~ 2024.06 | 시각 장애인을 위한 지하철 보조 앱. 음성 인식 및 이미지 분석 기능 구현, 멀티유저 환경 문제 해결 경험    |
-| [찾아벌레](https://github.com/username/bug-finder)                                                | 백엔드 개발자     | Spring Boot, JWT, Redis          | 2024.01 ~ 2024.02 | 사용자 로그인 및 세션 관리 기능 구현. Redis를 활용한 최근 검색어 기능 구현 경험             |
-| [Avocado](https://github.com/username/avocado)                                                    | 백엔드 개발자     | Node.js, Express, MySQL          | 2023.11 ~ 2023.12 | 팀 프로젝트로 로그인 및 데이터 처리 Spring Ai를 통해 Gpt Api와의 연결 경험              |
+| [먹킷리스트](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_2_BE_2)                            | 백엔드/클라우드 설계 | AWS EC2, S3, Lambda              | 2023.03 ~ 2023.03 |         |
+| [Dreamcatcher](https://github.com/username/dreamcatcher)                                           | 백엔드 개발자     | AWS, Docker, Jenkins     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여.              |
+| [Sublindway](https://github.com/woody6624/Backend_Sublindway_Server)                                 | 백엔드 개발자     | AWS, Spring Boot, MySQL, Yolo       | 2024.03 ~ 2024.06 | 시각 장애인을 위한 지하철 보조 앱. 음성 인식 및 이미지 분석 기능 구현, 멀티유저 환경 문제 해결 경험    |
+| [찾아벌레](https://github.com/Avocado-HSU)                                                | 백엔드 개발자     | Spring Boot, Spring JWT, Redis, OAuth2          | 2024.03 ~ 2024.09 | 사용자 로그인 및 세션 관리 기능 구현. Redis를 활용한 최근 검색어 기능 구현 경험             |
+| [Avocado](https://github.com/Avocado-HSU/Avocado-Backend)                                                    | 백엔드 개발자     | Spring Boot, Spring ai          | 2023.11 ~ 2023.12 | 팀 프로젝트로 로그인 및 데이터 처리 Spring Ai를 통해 Gpt Api와의 연결 경험              |
 
 
 
