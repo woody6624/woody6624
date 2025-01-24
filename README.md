@@ -25,7 +25,7 @@
     <td><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></td>
     <td><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" /></td>
-    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=elasticsearch" /</td>
   </tr>
 </table>
 
