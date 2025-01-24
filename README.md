@@ -53,11 +53,11 @@
 | **프로젝트 이름**                                                                                  | **역할**          | **주요 기술 스택**              | **기간**       | **설명**                                                                                   |
 |----------------------------------------------------------------------------------------------------|-------------------|----------------------------------|----------------|-------------------------------------------------------------------------------------------|
 | [먹킷리스트](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_2_BE_2)                            | 백엔드/클라우드 설계 | AWS EC2, S3, Lambda              | 2023.03 ~ 2023.03 | 구름톤 유니브 2기 벚꽃톤, 백엔드 로직 구현과 클라우드 인프라 기초 구축에 참여        |
-| [Dreamcatcher](https://github.com/username/dreamcatcher)                                           | 백엔드 개발자     | AWS, Docker, Jenkins, Ubuntu     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여              |
+| [Avocado](https://github.com/Avocado-HSU/Avocado-Backend)                                                    | 백엔드 개발자     | Spring Boot, Spring ai          | 2023.11 ~ 2023.12 | 팀 프로젝트로 로그인 및 데이터 처리 Spring Ai를 통해 Gpt Api와의 연결 경험              |
 | [Sublindway](https://github.com/woody6624/Backend_Sublindway_Server)                                 | 백엔드 개발자     | AWS, Spring Boot, MySQL, Yolo       | 2024.03 ~ 2024.06 | 시각 장애인을 위한 지하철 보조 앱. 음성 인식 및 이미지 분석 기능 구현, 멀티유저 환경 문제 해결 경험    |
 | [찾아벌레](https://github.com/Avocado-HSU)                                                | 백엔드 개발자     | Spring Boot, Spring JWT, Redis, OAuth2          | 2024.03 ~ 2024.09 | 사용자 로그인 및 세션 관리 기능 구현. Redis를 활용한 최근 검색어 기능 구현 경험             |
-| [Avocado](https://github.com/Avocado-HSU/Avocado-Backend)                                                    | 백엔드 개발자     | Spring Boot, Spring ai          | 2023.11 ~ 2023.12 | 팀 프로젝트로 로그인 및 데이터 처리 Spring Ai를 통해 Gpt Api와의 연결 경험              |
-| [Avocado](https://github.com/Avocado-HSU/Avocado-Backend)                                                    |      | Eclipse-STS, MySQL, Ubuntu           | 2025.01 ~ 2025.01 | DBeaver를 통해 우분투 환경의 MySQL과의 통신 구현              |
+| [Dreamcatcher](https://github.com/username/dreamcatcher)                                           | 백엔드 개발자     | AWS, Docker, Jenkins, Ubuntu     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여              |
+| [Woovie](https://github.com/TeamKim-fisa/Woovie)           |                            |   Eclipse-STS, MySQL, Ubuntu           | 2025.01 ~ 2025.01 | DBeaver를 통해 우분투 환경의 MySQL과의 통신 구현              |
 
 
 
