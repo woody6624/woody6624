@@ -35,6 +35,7 @@
   </tr>
   
 </table>
+<td><img src="https://techstack-generator.vercel.app/jenkins-icon.svg" alt="Jenkins" width="65" height="65" /></td>
 
 ## 🎒 Activities
 - 한성대학교 공학경진대회 (2024.03 ~ 2024.09)
