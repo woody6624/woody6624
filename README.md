@@ -57,8 +57,6 @@
 | [Sublindway](https://github.com/woody6624/Backend_Sublindway_Server)                                 | 백엔드 개발자     | AWS, Spring Boot, MySQL, Yolo       | 2024.03 ~ 2024.06 | 시각 장애인을 위한 지하철 보조 앱. 음성 인식 및 이미지 분석 기능 구현, 멀티유저 환경 문제 해결 경험    |
 | [찾아벌레](https://github.com/Avocado-HSU)                                                | 백엔드 개발자     | Spring Boot, Spring JWT, Redis, OAuth2          | 2024.03 ~ 2024.09 | 사용자 로그인 및 세션 관리 기능 구현. Redis를 활용한 최근 검색어 기능 구현 경험             |
 | [Dreamcatcher](https://github.com/Sparcs-Science-Hackathon-2024-A14)                                           | 백엔드 개발자     | AWS, Docker, Jenkins, Ubuntu     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여              |
-| [Woovie](https://github.com/TeamKim-fisa/Woovie)           |                            |   Eclipse-STS, MySQL, Ubuntu, DBeaver           | 2025.01 ~ 2025.01 | DBeaver를 통해 우분투 환경의 MySQL과의 통신 구현              |
-| [IglooMarket](https://github.com/IglooMarket)           |                            |   MySQL, Ubuntu, DBeaver           | 2025.01 ~ 2025.01 | RDBMS를 활용한 정규표현식 SQL문장을 학습              |
 
 
 
