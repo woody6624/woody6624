@@ -36,25 +36,25 @@
 </table>
 
 ## 🎒 Activities
+- 우리FISA 4기(2024.12 ~ 2025.06)
 - 창업동아리 What the World (2024.03 ~ 2024.09)
 - 2024년도 1학기 전공 튜터링 (2024.03 ~ 2024.06)
 - 한성과 컴퓨터[HSAC] (2023.08 ~ 2024.05)
 - 구름톤 유니브 2기 (2024.03 ~ 2024.07)
-- 우리FISA 4기(2024.12 ~ 2025.06)
 
 ## 🏆 Awards
-- 교내 캡스톤 경진대회(24.05.31) 장려상
-- Sparcs Science 해커톤(24.10.20) 대전문화정보산업진흥원장상
 - 우리FISA 4기 최종 프로젝트 최우수상
+- Sparcs Science 해커톤(24.10.20) 대전문화정보산업진흥원장상
+- 교내 캡스톤 경진대회(24.05.31) 장려상
 ## 📚 Projects
 
 | **프로젝트 이름**                                                                                  | **역할**          | **주요 기술 스택**              | **기간**       | **설명**                                                                                   |
 |----------------------------------------------------------------------------------------------------|-------------------|----------------------------------|----------------|-------------------------------------------------------------------------------------------|
-| [먹킷리스트](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_2_BE_2)                            | 백엔드/클라우드 설계 | AWS EC2, S3, Lambda              | 2023.03 ~ 2023.03 | 구름톤 유니브 2기 벚꽃톤, 백엔드 로직 구현과 클라우드 인프라 기초 구축에 참여        |
+| [Dreamcatcher](https://github.com/Sparcs-Science-Hackathon-2024-A14)                                           | 백엔드 개발자     | AWS, Docker, Jenkins, Ubuntu     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여              |
+
 | [Avocado](https://github.com/Avocado-HSU/Avocado-Backend)                                                    | 백엔드 개발자     | Spring Boot, Spring ai          | 2023.11 ~ 2023.12 | 팀 프로젝트로 로그인 및 데이터 처리 Spring Ai를 통해 Gpt Api와의 연결 경험              |
 | [Sublindway](https://github.com/woody6624/Backend_Sublindway_Server)                                 | 백엔드 개발자     | AWS, Spring Boot, MySQL, Yolo       | 2024.03 ~ 2024.06 | 시각 장애인을 위한 지하철 보조 앱. 음성 인식 및 이미지 분석 기능 구현, 멀티유저 환경 문제 해결 경험    |
 | [찾아벌레](https://github.com/Avocado-HSU)                                                | 백엔드 개발자     | Spring Boot, Spring JWT, Redis, OAuth2          | 2024.03 ~ 2024.09 | 사용자 로그인 및 세션 관리 기능 구현. Redis를 활용한 최근 검색어 기능 구현 경험             |
-| [Dreamcatcher](https://github.com/Sparcs-Science-Hackathon-2024-A14)                                           | 백엔드 개발자     | AWS, Docker, Jenkins, Ubuntu     | 2024.10 ~ 2024.10 | SPARCS 해커톤에서 개발한 프로젝트, 클라우드 인프라 설계 및 백엔드 로직 구현에 참여              |
 
 
 
