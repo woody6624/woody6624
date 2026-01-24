@@ -1,9 +1,5 @@
 # Hi! i'm woody6624 
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=woody6624)](https://github.com/woody6624/github-profile-trophy)
-
-
 ![woody6624's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody6624&show_icons=true&theme=radical)
 
 # 💪Skills
