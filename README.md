@@ -1,6 +1,5 @@
 # Hi! i'm woody6624 
 
-![woody6624's GitHub stats](https://github-readme-stats.vercel.app/api?username=woody6624&show_icons=true&theme=radical)
 
 # 💪Skills
 <table style="border-collapse: collapse;">
